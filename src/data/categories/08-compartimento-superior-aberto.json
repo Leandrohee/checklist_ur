@@ -1,0 +1,47 @@
+{
+  "id": "compartimento-superior-aberto",
+  "title": "COMPARTIMENTO SUPERIOR ABERTO",
+  "icon": "FolderOpen",
+  "items": [
+    {
+      "id": "csa-tala-madeira",
+      "name": "TALA DE MADEIRA (CONJUNTO)",
+      "quantity": 1
+    },
+    {
+      "id": "csa-tala-roxa",
+      "name": "TALA ROXA",
+      "quantity": 2
+    },
+    {
+      "id": "csa-tala-azul",
+      "name": "TALA AZUL",
+      "quantity": 2
+    },
+    {
+      "id": "csa-tala-laranja",
+      "name": "TALA LARANJA",
+      "quantity": 2
+    },
+    {
+      "id": "csa-tala-verde",
+      "name": "TALA VERDE",
+      "quantity": 2
+    },
+    {
+      "id": "csa-estab-prancha-vermelha",
+      "name": "ESTABILIZADOR PRANCHA VERMELHA COM TIRANTES",
+      "quantity": 1
+    },
+    {
+      "id": "csa-estab-prancha-amarela",
+      "name": "ESTABILIZADOR PRANCHA AMARELA COM TIRANTES",
+      "quantity": 1
+    },
+    {
+      "id": "csa-tirante-aranha",
+      "name": "TIRANTE ARANHA",
+      "quantity": 1
+    }
+  ]
+}

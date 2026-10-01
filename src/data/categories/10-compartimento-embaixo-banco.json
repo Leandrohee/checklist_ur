@@ -1,0 +1,27 @@
+{
+  "id": "compartimento-embaixo-banco",
+  "title": "COMPARTIMENTO EMBAIXO DO BANCO",
+  "icon": "Box",
+  "items": [
+    {
+      "id": "ceb-ked-adulto",
+      "name": "KED ADULTO",
+      "quantity": 1
+    },
+    {
+      "id": "ceb-ked-infantil",
+      "name": "KED INFANTIL",
+      "quantity": 1
+    },
+    {
+      "id": "ceb-prancha-pediatrica",
+      "name": "PRANCHA PEDIÁTRICA",
+      "quantity": 1
+    },
+    {
+      "id": "ceb-tracionador-femur",
+      "name": "TRACIONADOR DE FÊMUR",
+      "quantity": 2
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "gaveta-2",
+  "title": "GAVETA 2",
+  "icon": "Archive",
+  "items": [
+    {
+      "id": "gav2-ataduras",
+      "name": "ATADURAS 10CM, 15CM, 20CM",
+      "quantity": 5
+    }
+  ]
+}

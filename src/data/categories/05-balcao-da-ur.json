@@ -1,0 +1,72 @@
+{
+  "id": "balcao-da-ur",
+  "title": "BALCÃO DA UR",
+  "icon": "Layers",
+  "items": [
+    {
+      "id": "bur-fluxometro",
+      "name": "FLUXOMETRO COM UMIDIFICADOR",
+      "quantity": 1
+    },
+    {
+      "id": "bur-aspirador-eletrico",
+      "name": "ASPIRADOR ELÉTRICO",
+      "quantity": 1
+    },
+    {
+      "id": "bur-cloreto-sodio",
+      "name": "CLORETO DE SÓDIO 0,9% - 500ML",
+      "quantity": 4
+    },
+    {
+      "id": "bur-solucao-glicosada",
+      "name": "SOLUÇÃO GLICOSADA 5% - 500ML",
+      "quantity": 1
+    },
+    {
+      "id": "bur-solucao-ringer",
+      "name": "SOLUÇÃO RINGER COM LACTADO - 500ML",
+      "quantity": 4
+    },
+    {
+      "id": "bur-caixa-mascara",
+      "name": "CAIXA DE MASCÁRA",
+      "quantity": 1
+    },
+    {
+      "id": "bur-bolsa-acesso-rapido",
+      "name": "BOLSA DE ACESSO RÁPIDO COM JELCO 14, 16, 18, 20, 22, 24",
+      "quantity": 3
+    },
+    {
+      "id": "bur-alcool",
+      "name": "ÁLCOOL LIQUIDO E EM GEL",
+      "quantity": 1
+    },
+    {
+      "id": "bur-esparadrapo",
+      "name": "ESPARADRAPO",
+      "quantity": 1
+    },
+    {
+      "id": "bur-perfuro-cortante",
+      "name": "CAIXA DE PERFURO - CORTANTE",
+      "quantity": 1
+    },
+    {
+      "id": "bur-quartenario",
+      "name": "QUARTENARIO (FRASCO BRANCO)",
+      "quantity": 1
+    },
+    {
+      "id": "bur-luva-esteril",
+      "name": "LUVA ESTÉRIL 7 - 7,5 - 8",
+      "quantity": 3
+    },
+    {
+      "id": "bur-caixa-luva",
+      "name": "CAIXA DE LUVA P - M - G",
+      "quantity": 1
+    }
+  ]
+}

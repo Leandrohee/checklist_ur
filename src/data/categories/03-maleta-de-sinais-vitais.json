@@ -1,0 +1,27 @@
+{
+  "id": "maleta-de-sinais-vitais",
+  "title": "MALETA DE SINAIS VITAIS",
+  "icon": "Activity",
+  "items": [
+    {
+      "id": "msv-glicosimetro",
+      "name": "GLICOSIMETRO COM FITA + LANCETAS + GAZE ESTÉRIL (BOLSA PRETA)",
+      "quantity": 1
+    },
+    {
+      "id": "msv-oximetro",
+      "name": "OXÍMETRO",
+      "quantity": 1
+    },
+    {
+      "id": "msv-aparelho-pa",
+      "name": "APARELHO DE P.A. + 2 BRAÇAIS",
+      "quantity": 1
+    },
+    {
+      "id": "msv-termometro",
+      "name": "TERMÔMETRO",
+      "quantity": 1
+    }
+  ]
+}

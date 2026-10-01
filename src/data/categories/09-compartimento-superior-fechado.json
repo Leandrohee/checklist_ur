@@ -1,0 +1,47 @@
+{
+  "id": "compartimento-superior-fechado",
+  "title": "COMPARTIMENTO SUPERIOR FECHADO",
+  "icon": "FolderLock",
+  "items": [
+    {
+      "id": "csf-lencol",
+      "name": "LENÇOL",
+      "quantity": 1
+    },
+    {
+      "id": "csf-kit-parto",
+      "name": "KIT PARTO",
+      "quantity": 1
+    },
+    {
+      "id": "csf-compressa-nao-esteril",
+      "name": "COMPRESSA NÃO ESTÉRIL",
+      "quantity": 1
+    },
+    {
+      "id": "csf-bolsa-sondas-aspiracao",
+      "name": "BOLSA COM SONDAS DE ASPIRAÇÃO",
+      "quantity": 1
+    },
+    {
+      "id": "csf-bolsa-fita-zebrada-lixo",
+      "name": "BOLSA COM FITA ZEBRADA E SACOS DE LIXO (3 SACOS)",
+      "quantity": 1
+    },
+    {
+      "id": "csf-bolsa-pilhas-cabos",
+      "name": "BOLSA COM PILHAS E CABOS DE ENERGIA",
+      "quantity": 1
+    },
+    {
+      "id": "csf-bolsa-seringas",
+      "name": "BOLSA DE SERINGAS",
+      "quantity": 1
+    },
+    {
+      "id": "csf-dea",
+      "name": "DEA - COM 2 PÁS ADULTO E 1 INFANTIL",
+      "quantity": 1
+    }
+  ]
+}

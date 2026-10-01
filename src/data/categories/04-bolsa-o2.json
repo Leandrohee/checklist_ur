@@ -1,0 +1,28 @@
+{
+  "id": "bolsa-o2",
+  "title": "BOLSA O2 (VERDE)",
+  "icon": "Wind",
+  "items": [
+    {
+      "id": "bo2-cilindro",
+      "name": "CILINDRO DE O2 (VERIFICAR QUANTIDADE)",
+      "quantity": 1,
+      "notes": "Verificar manômetro e pressão"
+    },
+    {
+      "id": "bo2-bvm-adulto",
+      "name": "BVM ADULTO",
+      "quantity": 1
+    },
+    {
+      "id": "bo2-bvm-infantil",
+      "name": "BVM INFANTIL",
+      "quantity": 1
+    },
+    {
+      "id": "bo2-cof-canula",
+      "name": "COF - CANULA OROFARINGE TAM 0 - 1 - 2 - 3 - 4 - 5",
+      "quantity": 1
+    }
+  ]
+}

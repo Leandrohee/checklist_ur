@@ -1,0 +1,22 @@
+{
+  "id": "gaveta-1",
+  "title": "GAVETA 1",
+  "icon": "Archive",
+  "items": [
+    {
+      "id": "gav1-gaze-esteril",
+      "name": "GAZE ESTÉRIL",
+      "quantity": 10
+    },
+    {
+      "id": "gav1-compressa-esteril",
+      "name": "COMPRESSA ESTÉRIL",
+      "quantity": 1
+    },
+    {
+      "id": "gav1-curativo-preenchimento",
+      "name": "CURATIVO DE PREENCHIMENTO",
+      "quantity": 2
+    }
+  ]
+}

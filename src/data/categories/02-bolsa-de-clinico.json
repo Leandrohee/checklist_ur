@@ -1,0 +1,183 @@
+{
+  "id": "bolsa-de-clinico",
+  "title": "BOLSA DE CLINICO",
+  "icon": "HeartPulse",
+  "subcategories": [
+    {
+      "id": "bc-bolso-externo-laranjado",
+      "title": "BOLSO EXTERNO LARANJADO",
+      "items": [
+        {
+          "id": "bc-mascara-o2-adulto",
+          "name": "MÁSCARA COM RESERVATÓRIO DE O2 - ADULTO",
+          "quantity": 2
+        },
+        {
+          "id": "bc-mascara-o2-infantil",
+          "name": "MÁSCARA COM RESERVATÓRIO DE O2 - INFANTIL",
+          "quantity": 2
+        },
+        {
+          "id": "bc-mascara-nebulizacao",
+          "name": "MASCARA DE NEBULIZAÇÃO",
+          "quantity": 2
+        },
+        {
+          "id": "bc-cateter-oculos",
+          "name": "CATETER TIPO ÓCULOS",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": "bc-bolso-central",
+      "title": "BOLSO CENTRAL",
+      "items": [
+        {
+          "id": "bc-bvm-ped-neo",
+          "name": "BVM PEDIÁTRICO/NEONATO",
+          "quantity": 1
+        },
+        {
+          "id": "bc-algodao-pote",
+          "name": "ALGODÃO POTE",
+          "quantity": 1
+        },
+        {
+          "id": "bc-cloreto-sodio",
+          "name": "CLORETO DE SÓDIO 0,9% - 500ML",
+          "quantity": 1
+        },
+        {
+          "id": "bc-solucao-glicosada",
+          "name": "SOLUÇÃO GLICOSADA 5% - 500ML",
+          "quantity": 1
+        },
+        {
+          "id": "bc-solucao-ringer",
+          "name": "SOLUÇÃO RINGER COM LACTADO - 500ML",
+          "quantity": 1
+        },
+        {
+          "id": "bc-equipo",
+          "name": "EQUIPO",
+          "quantity": 5
+        },
+        {
+          "id": "bc-polifix",
+          "name": "POLIFIX",
+          "quantity": 5
+        },
+        {
+          "id": "bc-tesoura",
+          "name": "TESOURA",
+          "quantity": 1
+        },
+        {
+          "id": "bc-jelco",
+          "name": "JELCO 14, 16, 18, 20, 22, 24",
+          "quantity": 3
+        },
+        {
+          "id": "bc-agulha-40x12",
+          "name": "AGULHA 40X12 (ROSA)",
+          "quantity": 5
+        },
+        {
+          "id": "bc-agulha-30x8",
+          "name": "AGULHA 30X8 (VERDE)",
+          "quantity": 5
+        },
+        {
+          "id": "bc-espacador-aerolin",
+          "name": "ESPAÇADOR P/ AEROLIN",
+          "quantity": 1
+        },
+        {
+          "id": "bc-esparadrapo",
+          "name": "ESPARADRAPO",
+          "quantity": 1
+        },
+        {
+          "id": "bc-curativo-cateter",
+          "name": "CURATIVO COM FILME TRANSPARENTE PARA CATETER",
+          "quantity": 5
+        },
+        {
+          "id": "bc-esfigmo-esteto",
+          "name": "ESFIGMOMANÔMETRO + ESTETOSCÓPIO (BOLSA PRETA)",
+          "quantity": 1
+        },
+        {
+          "id": "bc-latex",
+          "name": "LATEX",
+          "quantity": 1
+        },
+        {
+          "id": "bc-atadura",
+          "name": "ATATURA 15CM, 20CM",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": "bc-bolso-externo-lat-esq",
+      "title": "BOLSO EXTERNO LATERAL ESQUERDO",
+      "items": [
+        {
+          "id": "bc-saco-coletor",
+          "name": "SACO COLETOR",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": "bc-bolso-externo-lat-dir",
+      "title": "BOLSO EXTERNO LATERAL DIREITO",
+      "items": [
+        {
+          "id": "bc-aspirador-manual",
+          "name": "ASPIRADOR MANUAL",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "bc-bolso-externo-frente-dir",
+      "title": "BOLSOS EXTERNO FRENTE DIREITO",
+      "items": [
+        {
+          "id": "bc-scalp",
+          "name": "SCALP 19, 21, 23, 25",
+          "quantity": 3
+        },
+        {
+          "id": "bc-seringa-1ml-3ml",
+          "name": "SERINGA 1ML E 3ML",
+          "quantity": 2
+        },
+        {
+          "id": "bc-seringa-5ml-10ml-20ml",
+          "name": "SERINGA 5ML, 10ML E 20 ML",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "id": "bc-bolso-externo-frente-esq",
+      "title": "BOLSOS EXTERNO FRENTE ESQUERDO",
+      "items": [
+        {
+          "id": "bc-gazes",
+          "name": "GAZES",
+          "quantity": 5
+        },
+        {
+          "id": "bc-manta-termica",
+          "name": "MANTA TÉRMICA",
+          "quantity": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": "bolsa-de-trauma",
+  "title": "BOLSA DE TRAUMA",
+  "icon": "ShieldAlert",
+  "subcategories": [
+    {
+      "id": "bt-bolso-externo-laranjado",
+      "title": "BOLSO EXTERNO LARANJADO",
+      "items": [
+        {
+          "id": "bt-colar-adulto",
+          "name": "COLAR CERVICAL REGULÁVEL ADULTO",
+          "quantity": 1
+        },
+        {
+          "id": "bt-colar-infantil",
+          "name": "COLAR CERVICAL REGULÁVEL INFANTIL",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "bt-bolso-central",
+      "title": "BOLSO CENTRAL",
+      "items": [
+        {
+          "id": "bt-estab-vermelha",
+          "name": "ESTABILIZADOR DE CABEÇA C/ TIRANTES PRANCHA VERMELHA",
+          "quantity": 1
+        },
+        {
+          "id": "bt-estab-amarela",
+          "name": "ESTABILIZADOR DE CABEÇA C/ TIRANTES PRANCHA AMARELA",
+          "quantity": 1
+        },
+        {
+          "id": "bt-tirante-aranha",
+          "name": "TIRANTE ARANHA",
+          "quantity": 1
+        },
+        {
+          "id": "bt-kit-estab-pelvico",
+          "name": "KIT ESTABILIZADOR PÉLVICO (SACO COLETOR COM LENÇOL E 2 ATATURAS)",
+          "quantity": 1
+        },
+        {
+          "id": "bt-tala-roxa",
+          "name": "TALA ROXA",
+          "quantity": 1
+        },
+        {
+          "id": "bt-tala-azul",
+          "name": "TALA AZUL",
+          "quantity": 1
+        },
+        {
+          "id": "bt-tala-laranja",
+          "name": "TALA LARANJA",
+          "quantity": 1
+        },
+        {
+          "id": "bt-tala-verde",
+          "name": "TALA VERDE",
+          "quantity": 1
+        },
+        {
+          "id": "bt-ataduras-15cm",
+          "name": "ATATURAS DE CREPOM TAM 15CM",
+          "quantity": 5
+        },
+        {
+          "id": "bt-ataduras-20cm",
+          "name": "ATATURAS DE CREPOM TAM 20CM",
+          "quantity": 5
+        },
+        {
+          "id": "bt-ataduras-30cm",
+          "name": "ATATURAS DE CREPOM TAM 30CM",
+          "quantity": 5
+        },
+        {
+          "id": "bt-tesoura",
+          "name": "TESOURA",
+          "quantity": 1
+        },
+        {
+          "id": "bt-torniquete-laranja",
+          "name": "TORNIQUETE LARANJA",
+          "quantity": 2
+        },
+        {
+          "id": "bt-lanterna-pupilar",
+          "name": "LANTERNA PUPILAR",
+          "quantity": 1
+        },
+        {
+          "id": "bt-esparadrapo",
+          "name": "ESPARADRAPO",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "bt-bolso-externo-lat-esq",
+      "title": "BOLSO EXTERNO LATERAL ESQUERDO",
+      "items": [
+        {
+          "id": "bt-tirante-amarelo",
+          "name": "TIRANTES SOLTEIRO AMARELO",
+          "quantity": 2
+        },
+        {
+          "id": "bt-tirante-verde",
+          "name": "TIRANTES SOLTEIRO VERDE",
+          "quantity": 2
+        },
+        {
+          "id": "bt-tirante-vermelho",
+          "name": "TIRANTES SOLTEIRO VERMELHO",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": "bt-bolso-externo-lat-dir",
+      "title": "BOLSO EXTERNO LATERAL DIREITO",
+      "items": [
+        {
+          "id": "bt-fita-tubular",
+          "name": "FITA TUBULAR",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": "bt-bolso-externo-frente",
+      "title": "BOLSOS EXTERNO FRENTE (D/E)",
+      "items": [
+        {
+          "id": "bt-gaze-esteril",
+          "name": "GAZE ESTÉRIL (PACOTE)",
+          "quantity": 10
+        },
+        {
+          "id": "bt-compressa-esteril",
+          "name": "COMPRESSA ESTÉRIL (PACOTE)",
+          "quantity": 2
+        },
+        {
+          "id": "bt-luvas-esteril",
+          "name": "LUVAS ESTÉRIL",
+          "quantity": 5
+        },
+        {
+          "id": "bt-manta-termica",
+          "name": "MANTA TÉRMICA",
+          "quantity": 1
+        }
+      ]
+    }
+  ]
+}

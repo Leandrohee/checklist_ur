@@ -1,9 +1,10 @@
-<!-- BEGIN:nextjs-agent-rules -->
+## Política de Execução e Transparência
 
-# This is NOT the Next.js you know
+Antes de chamar QUALQUER ferramenta (`Edit`, `Read`, `Write`, `Command`, etc.), você DEVE exibir no terminal uma explicação concisa contendo:
 
-This version has breaking changes — APIs, conventions, and file structure may all differ from your training data. Read the relevant guide in `node_modules/next/dist/docs/` (resolved from this file's directory; in monorepos the `next` package may not be visible from the repo root) before writing any code. Heed deprecation notices.
+1. **Justificativa (Rationale)**: Por que você está realizando esta ação e qual problema específico está solucionando.
+2. **Alteração / Busca Planejada**: Exatamente o que você espera encontrar ou modificar.
+3. **Validação**: Qual condição indicará sucesso antes de prosseguir para o próximo passo.
 
-This block is written and re-added by `next dev` — verify at `node_modules/next/dist/server/lib/generate-agent-files.js`. Removing it from a diff only re-creates the uncommitted change; committing it with your work keeps the tree clean.
-
-<!-- END:nextjs-agent-rules -->
+Nunca execute chamadas de ferramentas em lote de forma silenciosa. Sempre explique sua intenção antes de invocar uma ferramenta.
+Quando precisar de permissão do usuario para executar algum comando: (`Edit`, `Read`, `Write`, `Command`) quero que me avise de antemão porque precisa realizar aquela tarefa e explique o seu raciocineo para o usuario. 

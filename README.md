@@ -2,6 +2,8 @@
 
 Aplicação Next.js com TypeScript e Tailwind CSS desenvolvida para a conferência rápida, precisa e moderna dos materiais, medicamentos e equipamentos de uma Unidade de Resgate (UR).
 
+LINK: [https://leandrohee.github.io/checklist_ur/](https://leandrohee.github.io/checklist_ur/)
+
 ---
 
 ## ✨ Características do Projeto

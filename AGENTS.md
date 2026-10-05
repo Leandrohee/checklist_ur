@@ -7,4 +7,8 @@ Antes de chamar QUALQUER ferramenta (`Edit`, `Read`, `Write`, `Command`, etc.), 
 3. **Validação**: Qual condição indicará sucesso antes de prosseguir para o próximo passo.
 
 Nunca execute chamadas de ferramentas em lote de forma silenciosa. Sempre explique sua intenção antes de invocar uma ferramenta.
-Quando precisar de permissão do usuario para executar algum comando: (`Edit`, `Read`, `Write`, `Command`) quero que me avise de antemão porque precisa realizar aquela tarefa e explique o seu raciocineo para o usuario. 
+Quando precisar de permissão do usuário para executar algum comando: (`Edit`, `Read`, `Write`, `Command`), quero que me avise de antemão porque precisa realizar aquela tarefa e explique o seu raciocínio para o usuário. 
+
+## Privacidade e segurança
+
+Nunca leia arquivos .env sem devida permissão do usuário. Sempre abra uma caixa para perguntar ao usuário se é permitido ler arquivos no formato .env

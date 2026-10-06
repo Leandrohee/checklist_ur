@@ -14,6 +14,8 @@ import { FilterBar } from "@/components/filter/FilterBar";
 import { CategoryList } from "@/components/category/CategoryList";
 import { MissingItemsModal } from "@/components/modals/MissingItemsModal";
 import { ConfirmResetModal } from "@/components/modals/ConfirmResetModal";
+import { GbmInfoModal } from "@/components/modals/GbmInfoModal";
+import { Footer } from "@/components/footer/Footer";
 
 export default function ChecklistUrPage() {
   const {
@@ -42,6 +44,7 @@ export default function ChecklistUrPage() {
 
   const [isMissingModalOpen, setIsMissingModalOpen] = useState(false);
   const [isResetModalOpen, setIsResetModalOpen] = useState(false);
+  const [isGbmModalOpen, setIsGbmModalOpen] = useState(false);
 
   // Progresso geral
   const progress = calculateOverallProgress(checklistCategories, state);
@@ -109,14 +112,7 @@ export default function ChecklistUrPage() {
           }}
         />
 
-        <footer className="mt-12 text-center text-xs text-slate-400 dark:text-zinc-600 border-t border-slate-200 dark:border-zinc-800 pt-6 pb-8">
-          <p className="font-medium text-slate-500 dark:text-zinc-500">
-            Checklist da UR — Unidade de Resgate Pré-Hospitalar
-          </p>
-          <p className="mt-1">
-            Persistência local ativada • Compatível com GitHub Pages
-          </p>
-        </footer>
+        <Footer onOpenGbmInfo={() => setIsGbmModalOpen(true)} />
       </div>
 
       <MissingItemsModal
@@ -130,6 +126,11 @@ export default function ChecklistUrPage() {
         isOpen={isResetModalOpen}
         onConfirm={handleConfirmReset}
         onCancel={() => setIsResetModalOpen(false)}
+      />
+
+      <GbmInfoModal
+        isOpen={isGbmModalOpen}
+        onClose={() => setIsGbmModalOpen(false)}
       />
     </main>
   );

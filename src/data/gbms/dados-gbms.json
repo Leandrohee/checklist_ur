@@ -1,0 +1,212 @@
+[
+  {
+    "id": "1-gbm",
+    "nome": "GRUPAMENTO BOMBEIRO MILITAR DE BRASÍLIA",
+    "sigla": "1º GBM",
+    "indicativo": "ALFA"
+  },
+  {
+    "id": "15-gbm",
+    "nome": "GRUPAMENTO BOMBEIRO MILITAR DA ASA SUL",
+    "sigla": "15º GBM",
+    "indicativo": "ALFA 1"
+  },
+  {
+    "id": "4-gbm",
+    "nome": "GRUPAMENTO BOMBEIRO MILITAR DA ASA NORTE",
+    "sigla": "4º GBM",
+    "indicativo": "ALFA 2"
+  },
+  {
+    "id": "3-gbm",
+    "nome": "GRUPAMENTO BOMBEIRO MILITAR DO SETOR DE INDÚSTRIA E ABASTECIMENTO",
+    "sigla": "3º GBM",
+    "indicativo": "ALFA 3"
+  },
+  {
+    "id": "13-gbm",
+    "nome": "GRUPAMENTO BOMBEIRO MILITAR DO GUARÁ I",
+    "sigla": "13º GBM",
+    "indicativo": "ALFA 4"
+  },
+  {
+    "id": "45-gbm",
+    "nome": "GRUPAMENTO BOMBEIRO MILITAR DO  SUDOESTE E OCTOGNAL",
+    "sigla": "45º GBM",
+    "indicativo": "ALFA 5"
+  },
+  {
+    "id": "11-gbm",
+    "nome": "GRUPAMENTO BOMBEIRO MILITAR DO LAGO SUL",
+    "sigla": "11º GBM",
+    "indicativo": "ALFA 7"
+  },
+  {
+    "id": "1-esav-antigo",
+    "nome": "1º ESQUADRÃO DE AVIAÇÃO - ANTIGO",
+    "sigla": "1º ESAV - ANTIGO",
+    "indicativo": "BASE RESGATE"
+  },
+  {
+    "id": "comav",
+    "nome": "COMANDO DE AVIAÇÃO OPERACIONAL",
+    "sigla": "COMAV",
+    "indicativo": "BASE RESGATE"
+  },
+  {
+    "id": "2-gbm",
+    "nome": "GRUPAMENTO BOMBEIRO MILITAR DE TAGUATINGA",
+    "sigla": "2º GBM",
+    "indicativo": "BRAVO"
+  },
+  {
+    "id": "7-gbm",
+    "nome": "GRUPAMENTO BOMBEIRO MILITAR DE BRAZLÂNDIA",
+    "sigla": "7º GBM",
+    "indicativo": "BRAVO 2"
+  },
+  {
+    "id": "8-gbm",
+    "nome": "GRUPAMENTO BOMBEIRO MILITAR DE CEILÂNDIA",
+    "sigla": "8º GBM",
+    "indicativo": "BRAVO 3"
+  },
+  {
+    "id": "37-gbm",
+    "nome": "GRUPAMENTO BOMBEIRO MILITAR DE SAMAMBAIA CENTRO",
+    "sigla": "37º GBM",
+    "indicativo": "BRAVO 4"
+  },
+  {
+    "id": "12-gbm",
+    "nome": "GRUPAMENTO BOMBEIRO MILITAR DE SAMAMBAIA",
+    "sigla": "12º GBM",
+    "indicativo": "BRAVO 6"
+  },
+  {
+    "id": "41-gbm",
+    "nome": "GRUPAMENTO BOMBEIRO MILITAR DO SETOR INDUSTRIAL DA CEILÂNDIA",
+    "sigla": "41º GBM",
+    "indicativo": "BRAVO 8"
+  },
+  {
+    "id": "25-gbm",
+    "nome": "GRUPAMENTO BOMBEIRO MILITAR DE ÁGUAS CLARAS",
+    "sigla": "25º GBM",
+    "indicativo": "BRAVO 9"
+  },
+  {
+    "id": "16-gbm",
+    "nome": "GRUPAMENTO BOMBEIRO MILITAR DO GAMA",
+    "sigla": "16º GBM",
+    "indicativo": "CHARLIE"
+  },
+  {
+    "id": "6-gbm",
+    "nome": "GRUPAMENTO BOMBEIRO MILITAR DO NÚCLEO BANDEIRANTE",
+    "sigla": "6º GBM",
+    "indicativo": "CHARLIE 1"
+  },
+  {
+    "id": "36-gbm",
+    "nome": "GRUPAMENTO BOMBEIRO MILITAR DO RECANTO DAS EMAS CENTRAL",
+    "sigla": "36º GBM",
+    "indicativo": "CHARLIE 2"
+  },
+  {
+    "id": "18-gbm",
+    "nome": "GRUPAMENTO BOMBEIRO MILITAR DE SANTA MARIA",
+    "sigla": "18º GBM",
+    "indicativo": "CHARLIE 3"
+  },
+  {
+    "id": "21-gbm",
+    "nome": "GRUPAMENTO BOMBEIRO MILITAR DO RIACHO FUNDO I",
+    "sigla": "21º GBM",
+    "indicativo": "CHARLIE 4"
+  },
+  {
+    "id": "19-gbm",
+    "nome": "GRUPAMENTO BOMBEIRO MILITAR DA CANDANGOLÂNDIA",
+    "sigla": "19º GBM",
+    "indicativo": "CHARLIE 5"
+  },
+  {
+    "id": "gbs",
+    "nome": "GRUPAMENTO DE BUSCA E SALVAMENTO",
+    "sigla": "GBS",
+    "indicativo": "DELTA"
+  },
+  {
+    "id": "gbs-merg-delta1",
+    "nome": "MERGULHADORES DELTA 1 (BUC) - GBS",
+    "sigla": "GBS/ Merg. DELTA 1",
+    "indicativo": "DELTA 1"
+  },
+  {
+    "id": "gpciu",
+    "nome": "GRUPAMENTO DE PREVENÇÃO E COMBATE A INCÊNDIO URBANO",
+    "sigla": "GPCIU",
+    "indicativo": "GOLF"
+  },
+  {
+    "id": "gaeph",
+    "nome": "GRUPAMENTO DE ATENDIMENTO DE EMERGÊNCIA PRÉ-HOSPITALAR",
+    "sigla": "GAEPH",
+    "indicativo": "INDIA"
+  },
+  {
+    "id": "gpciv-antigo",
+    "nome": "GRUPAMENTO DE PROTEÇÃO CIVIL - ANTIGO",
+    "sigla": "GPCIV - ANTIGO",
+    "indicativo": "LIMA"
+  },
+  {
+    "id": "gpram-antigo",
+    "nome": "GRUPAMENTO DE PROTEÇÃO AMBIENTAL - ANTIGO",
+    "sigla": "GPRAM - ANTIGO",
+    "indicativo": "OSCAR"
+  },
+  {
+    "id": "22-gbm",
+    "nome": "GRUPAMENTO BOMBEIRO MILITAR DE SOBRADINHO",
+    "sigla": "22º GBM",
+    "indicativo": "OSCAR 1"
+  },
+  {
+    "id": "9-gbm",
+    "nome": "GRUPAMENTO BOMBEIRO MILITAR DE PLANALTINA",
+    "sigla": "9º GBM",
+    "indicativo": "OSCAR 2"
+  },
+  {
+    "id": "34-gbm",
+    "nome": "GRUPAMENTO BOMBEIRO MILITAR DO LAGO NORTE",
+    "sigla": "34º GBM",
+    "indicativo": "OSCAR 3"
+  },
+  {
+    "id": "10-gbm",
+    "nome": "GRUPAMENTO BOMBEIRO MILITAR DO PARANOÁ",
+    "sigla": "10º GBM",
+    "indicativo": "OSCAR 4"
+  },
+  {
+    "id": "17-gbm",
+    "nome": "GRUPAMENTO BOMBEIRO MILITAR DE SÃO SEBASTIÃO",
+    "sigla": "17º GBM",
+    "indicativo": "OSCAR 5"
+  },
+  {
+    "id": "gpram-samambaia-antigo",
+    "nome": "GPRAM/Samambaia - ANTIGO",
+    "sigla": "GPRAM/ Samambaia - ANTIGO",
+    "indicativo": "OSCAR 7"
+  },
+  {
+    "id": "37-gbm-sierra-3",
+    "nome": "SUBGRUPAMENTO DE BOMBEIRO MILITAR - BR 060",
+    "sigla": "37º GBM/ SIERRA 3",
+    "indicativo": "SIERRA 3"
+  }
+]
